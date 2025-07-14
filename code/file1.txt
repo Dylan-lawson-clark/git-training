@@ -5,7 +5,7 @@ This is the first file:
 // Valid constant names
 define("FOO",     "something");
 define("FOO2",    "something else");
-define("FOO_BAR", "something more");
+define("FOO_BAR", "something less");
 
 // Invalid constant names
 define("2FOO",    "something");

@@ -1,0 +1,6 @@
+This file contains some settings
+
+username: malcom@studio.website
+password: ithurstwhenip
+
+key: 12345567890
