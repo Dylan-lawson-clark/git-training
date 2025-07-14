@@ -1,0 +1,6 @@
+This file contains some settings
+
+username: admin
+password: test
+
+key: 1234567890
