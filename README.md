@@ -56,11 +56,6 @@ This will checkout a specific branch
 git checkout example_branch
 ```
 
-This will create a new branch and switch to it
-```
-git checkout -b branch_name
-```
-
 ---
 
 ### git switch
